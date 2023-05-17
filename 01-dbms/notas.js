@@ -19,5 +19,10 @@ Base de datos: es una coleccion organizada de datos que se alamacenan en una com
  relacion: es una asociacion entre varias entidades 
 
   
+  sjfijsfjsljflsk
+  fjsfjssfjsnlksfjs
+  nucioekabajknad
+
+  aapdakadnnciolele sodifi
  
  */
